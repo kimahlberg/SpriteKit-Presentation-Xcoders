@@ -155,8 +155,6 @@
     return shape;
 }
 
-#pragma mark - Action methods
-
 - (void)reloadKpis
 {
     NSLog(@"GameScene: Reload KPIs called");

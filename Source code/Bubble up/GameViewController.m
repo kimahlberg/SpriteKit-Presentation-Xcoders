@@ -109,7 +109,7 @@
     [self hideDetails];
 }
 
-#pragma mark - Action methods
+#pragma mark - Helper methods
 
 - (void)showDetailsForKpi:(KpiModel *)kpi
 {
